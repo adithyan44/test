@@ -9,5 +9,5 @@ function sub1(){
 } 
 
 function sub2(){
-	return 3-2;// coment
+	return 3-2;// coments
 }
