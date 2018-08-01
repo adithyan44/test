@@ -7,3 +7,7 @@ function divide(){
 function sub1(){
 	return 3-2;
 } 
+
+function sub2(){
+	return 3-2;
+}
