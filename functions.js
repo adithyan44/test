@@ -16,5 +16,5 @@ function sub3(){
 	return 3-2;// coments added as new
 }
 function sub4(){
-	return 3-2;// coments added as new/////////////////
+	return 3-2+5-8;// coments added as new/////////////////
 }
