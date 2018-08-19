@@ -15,6 +15,3 @@ function sub2(){
 function sub3(){
 	return 3-2;// coments added as new
 }
-function sub4(){
-	return 3-2;// coments added as new/////////////////
-}
