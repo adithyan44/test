@@ -1,3 +1,4 @@
+var x=10;
 function add(){
 	return 5+2;
 } 
