@@ -19,4 +19,3 @@ function adi()
 {
 	echo 'adi';
 }
-//in development
