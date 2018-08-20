@@ -14,17 +14,10 @@
 	}
 	//in development
 
-function nandhu()
-{
-	echo 'nandhu';
-}
-//in development
-
-
-function adi()
-{
-	echo 'adi';
-}
+	function adi()
+	{
+		echo 'adi';
+	}
 
 
 
